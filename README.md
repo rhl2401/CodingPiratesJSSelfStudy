@@ -1,4 +1,7 @@
 # Javascript selvstudie
+
+**VIGTIGT: LÆS DENNE GUIDE FØR DU GÅR I GANG!**
+
 Dette projekt er lavet til folk, der har været med på workshoppen om Javascript. Det er også muligt at følge med, hvis man selv har opbygget kedskab til Javascript på anden vis. 
 
 Idéen er, at man laver de opgaver, man har lyst til og selv finder vejledning undervejs. Det er muligt at skrive på Discord og spørge om hjælp eller tage fat i Rasmus på klubaftenerne i pauserne, hvis man sidder fast eller vil have tjekket sin opgave igennem. 
