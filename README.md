@@ -13,6 +13,8 @@ Det er vigtigt at forstå, at denne opgaveform er lidt anderledes end til worksh
 ## Kom i gang
 Alle opgaver ligger i mapper herinde. Der vil altid ligge i `README.md` fil i hver mappe, der beskriver, hvad der skal laves. Læs altid denne fil først. Generelt er alle filer, der ender på `.md` en tekstfil, der skal læses. 
 
+Hvis der i en mappe med en opgave yderligere ligger en mappe, der hedder `assets`, indeholder denne mappe filer, du bør bruge for at løse opgaven lettere. Det kan fx være, at du skal rette eller tilføje lidt. 
+
 ## Hjælp
 Du kan finde hjælp online til de fleste ting. En stor øvelse er i sig selv at blive god til at google ting. Hvis man bliver god til at google og finde kodeeksempler online, kan man lave rigtig meget kode - man googler også hele tiden, når man arbejder som softwareudvikler! 
 
